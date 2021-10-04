@@ -10,6 +10,9 @@ namespace TP4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Napier !");
+            Console.WriteLine("Hello Napier !!");
+
         }
     }
 }
